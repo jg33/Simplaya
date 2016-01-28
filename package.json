@@ -1,0 +1,9 @@
+{
+  "name": "Simplaya",
+  "version": "0.0.1",
+  "author":"Jesse Garrison",
+  "dependencies":{
+    "omxdirector":"0.1.2",
+    "single-prompt":"0.2.3"
+  }
+}

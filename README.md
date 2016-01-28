@@ -6,6 +6,8 @@ Any and all help is appreciated!
 
 # To Do
 * Finish script
+** Add command-line arguments
 * Draft case
 * Make image
 * Reduce image
+
