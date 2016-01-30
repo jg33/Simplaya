@@ -5,10 +5,12 @@ Once the script works, the plan is to make an small image that can be easily loa
 Any and all help is appreciated!
 
 # To Do
-* Finish script
+* Improve script
 ** Add command-line arguments
 ** add fallback to folder on SD card
 * Draft case
 * Make image
-* Reduce image
+* Reduce image - (switch to jessie lite?)
+* Make sexy loading screen
+* Add GPIO input for nice on/off button
 

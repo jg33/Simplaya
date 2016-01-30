@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58486c0a-7eeb-4311-81f6-38f358e8c17d" name="Default" comment="added drive mounting, error detection">
+    <list default="true" id="58486c0a-7eeb-4311-81f6-38f358e8c17d" name="Default" comment="updating">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplePlayer.coffee" afterPath="$PROJECT_DIR$/simplePlayer.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplePlayer.js" afterPath="$PROJECT_DIR$/simplePlayer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simplePlayer.js.map" afterPath="$PROJECT_DIR$/simplePlayer.js.map" />
     </list>
     <ignored path="simplePlayer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="simplePlayer.coffee" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simplePlayer.coffee" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simplePlayer.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19848771">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
@@ -47,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.36">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -78,8 +75,8 @@
       <list>
         <option value="fs.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/simplePlayer.coffee" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -248,7 +245,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453943022077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added drive mounting, error detection">
+      <created>1454119735432</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1454119735432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -333,7 +336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simplePlayer.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19848771">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
@@ -352,8 +355,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.36">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding />
         </state>
       </provider>
