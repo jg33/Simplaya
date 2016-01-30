@@ -7,6 +7,7 @@ Any and all help is appreciated!
 # To Do
 * Finish script
 ** Add command-line arguments
+** add fallback to folder on SD card
 * Draft case
 * Make image
 * Reduce image
